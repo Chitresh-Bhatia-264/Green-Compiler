@@ -1,0 +1,6 @@
+{
+  "name": "Green Compiler",
+  "description": "A specialized static analysis engine that weighs Python code by energy consumption and carbon footprint, optimizing for environmental impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Compiler Design", "Big O Analysis", "Energy Profiling"]
+}
