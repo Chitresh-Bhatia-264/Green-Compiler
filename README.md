@@ -31,3 +31,5 @@ The compiler uses a custom Lexer and Recursive Descent Parser to convert Python 
 The project is optimized for deployment via **Vite**.
 - **Build**: `npm run build`
 - **Dev**: `npm run dev`
+
+© 2026 Green Compiler. All rights reserved. Unauthorized copying, reproduction, modification, or redistribution of this project's source code or original materials is prohibited, except as permitted by applicable law.
